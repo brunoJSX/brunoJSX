@@ -3,12 +3,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunojsx)](https://www.linkedin.com/in/brunojsx)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno28dpvat@gmail.com)](mailto:bruno28dpvat@gmail.com) 
 
-### Fala galera linda :purple_heart:
-Sou hiper apaixonado por tecnologia e poder usar ela para ajudar as pessoas à resolverem seus problemas é sensacional.
+### Hello beautiful guys :purple_heart:
+I'm very passionate about technology and being able to use it to help people solve their problems is amazing.
 
-- Sou Fullstack Developer
-- Atualmente sou Development Manager na **CBK Software**
-- Amo ajudar em projetos sociais
-- Trabalho com ZendFramework, AngularJS, entre outras tecs que os cercam
-- Atualmente estudante da **Rocketseat** onde me apaixonei por React e NodeJS, que é a stack que estou 100% focado atualmente
-- Jogador de WOW (World of Warcraft)
+- I'm a Fullstack Developer
+- I am currently a Development Manager at **CBK Software**
+- I love helping with social projects
+- I work with ZendFramework, AngularJS, among other tecs that surround them
+- I attended Rocketseat's GoStack, where I fell in love with React and NodeJS, which is the stack I'm 100% focused on currently.
+- WoW player (World of Warcraft)
