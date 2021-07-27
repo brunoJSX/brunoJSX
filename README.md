@@ -11,4 +11,5 @@ I'm very passionate about technology and being able to use it to help people sol
 - I love helping with social projects
 - I work with ZendFramework, AngularJS, among other tecs that surround them
 - I attended Rocketseat's GoStack, where I fell in love with React and NodeJS, which is the stack I'm 100% focused on currently.
+- Literally in love with Linux
 - WoW player (World of Warcraft)
