@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunojsx)](https://www.linkedin.com/in/brunojsx)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno28dpvat@gmail.com)](mailto:bruno28dpvat@gmail.com) 
 
-### Hello beautiful guys :purple_heart:
+### Hello everyone :purple_heart:
 I'm very passionate about technology and being able to use it to help people solve their problems is amazing.
 
 - I'm a Fullstack Developer
