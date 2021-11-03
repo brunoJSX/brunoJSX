@@ -7,7 +7,7 @@
 I'm very passionate about technology and being able to use it to help people solve their problems is amazing.
 
 - I'm a Fullstack Developer
-- I am currently a Development Manager at **Flash Benefícios**
+- I am currently a Software Engineer at **Flash Benefícios**
 - I love helping with social projects
 - I work with ZendFramework, AngularJS, among other tecs that surround them
 - I attended Rocketseat's GoStack, where I fell in love with React and NodeJS, which is the stack I'm 100% focused on currently.
