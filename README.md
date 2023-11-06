@@ -7,7 +7,7 @@
 I'm very passionate about technology and being able to use it to help people solve their problems is amazing.
 
 - I'm a Fullstack Developer
-- I am currently a Software Engineer at **Bexs Pay**
+- I am currently a Software Engineer at **Traive Finance**
 - I love helping with social projects
 - I work with ReactJS, ReactNative, NextJS, Express, Angular, among other tecs that surround them
 - I attended Rocketseat's GoStack, where I fell in love with React and NodeJS, which is the stack I'm 100% focused on currently.
